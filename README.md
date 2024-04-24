@@ -91,4 +91,8 @@ UML Diagrams
             -	User / Member (Pengguna)
             -	Librarian (Pustakawan
 
-          Use Case Diagram: 
+          Use Case Diagram: ![Alt Text](URL_Gambar)
+
+          Class Diagram: ![Alt Text](URL_Gambar)
+
+
