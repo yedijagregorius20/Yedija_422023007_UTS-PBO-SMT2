@@ -91,7 +91,7 @@ UML Diagrams
             -	User / Member (Pengguna)
             -	Librarian (Pustakawan
 
-          Use Case Diagram: ![Alt Text](URL_Gambar)
+          Use Case Diagram: ![Alt Text](https://github.com/yedijagregorius20/Yedija_422023007_UTS-PBO-SMT2/blob/6fdaaedd004b2b099a746be75bd5c3268f761600/usecaseelb.drawio.png)
 
           Class Diagram: ![Alt Text](URL_Gambar)
 
