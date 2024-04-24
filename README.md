@@ -92,8 +92,9 @@ UML Diagrams
             -	User / Member (Pengguna)
             -	Librarian (Pustakawan)
             
-        ![Use Case Diagram:](https://imgur.com/a/s2RhTGY)
+        Use Case Diagram:
+
         
-        ![ Class Diagram:](https://imgur.com/a/VOaiZe8)
+        Class Diagram:
 
 
