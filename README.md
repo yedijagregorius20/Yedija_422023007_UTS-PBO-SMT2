@@ -83,8 +83,8 @@ Identify Components
           Relationships:
           •	Library and Book: Perpustakaan berisi banyak buku, dikelola melalui metode seperti add_book, get_all_books, dan search_books.
           •	Library dan Member: Perpustakaan berisi banyak anggota, dikelola melalui metode seperti add_member dan manage_member_info.
-          •	Member dan Book: Seorang anggota dapat meminjam banyak buku, dan satu buku dapat dipinjam oleh banyak anggota. Hubungan ini dikelola melalui metode seperti borrow_book dan return_book.
-        Pada desain saya ini, kelas ‘Library’ bertindak sebagai pusat yang mengelola books dan member, sedangkan kelas ‘Book’ dan ‘Member’ mewakili entitas individu dalam sistem library. Program utama (‘main()’) berinteraksi dengan perpustakaan melalui pilihan menu yang disediakan untuk librarian dan member.
+          •	Member dan Book: Seorang anggota dapat meminjam banyak buku, dan satu buku dapat dipinjam oleh banyak anggota. Hubungan ini dikelola melalui metode                 seperti borrow_book dan return_book.
+          Pada desain saya ini, kelas ‘Library’ bertindak sebagai pusat yang mengelola books dan member, sedangkan kelas ‘Book’ dan ‘Member’ mewakili entitas                 individu dalam sistem library. Program utama (‘main()’) berinteraksi dengan perpustakaan melalui pilihan menu yang disediakan untuk librarian dan member.
 
 UML Diagrams
           User Roler (Actor): 
@@ -92,4 +92,3 @@ UML Diagrams
             -	Librarian (Pustakawan
 
           Use Case Diagram: 
-
